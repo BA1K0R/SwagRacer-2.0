@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"/Users/cowanhahn/Desktop/SwagRacer-2.0/SwagRacer2/Source/SwagRacer2/SwagRacer2.Build.cs",
-		"/Users/cowanhahn/Desktop/SwagRacer-2.0/SwagRacer2/Source/SwagRacer2.Target.cs",
-		"/Users/cowanhahn/Desktop/SwagRacer-2.0/SwagRacer2/Source/SwagRacer2Editor.Target.cs"
+		"E:\\SwagRacer2.0\\SwagRacer-2.0\\SwagRacer2\\Source\\SwagRacer2\\SwagRacer2.Build.cs",
+		"E:\\SwagRacer2.0\\SwagRacer-2.0\\SwagRacer2\\Source\\SwagRacer2.Target.cs",
+		"E:\\SwagRacer2.0\\SwagRacer-2.0\\SwagRacer2\\Source\\SwagRacer2Editor.Target.cs"
 	],
 	"EngineVersion": "5.0.2"
 }

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SwagRacer2",
-			"Path": "/Users/cowanhahn/Desktop/SwagRacer-2.0/SwagRacer2/Source/SwagRacer2.Target.cs",
+			"Path": "E:\\SwagRacer2.0\\SwagRacer-2.0\\SwagRacer2\\Source\\SwagRacer2.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SwagRacer2Editor",
-			"Path": "/Users/cowanhahn/Desktop/SwagRacer-2.0/SwagRacer2/Source/SwagRacer2Editor.Target.cs",
+			"Path": "E:\\SwagRacer2.0\\SwagRacer-2.0\\SwagRacer2\\Source\\SwagRacer2Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

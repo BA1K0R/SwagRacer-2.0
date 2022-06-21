@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SwagRacer2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\SwagRacer2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\SwagRacer2.cpp.obj"
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\SwagRacer2GameModeBase.cpp.obj"
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\SwagRacer2.init.gen.cpp.obj"
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\SwagRacer2GameModeBase.gen.cpp.obj"
+"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\Default.rc2.res"
+/OUT:"E:\SwagRacer2.0\SwagRacer-2.0\SwagRacer2\Intermediate\Build\Win64\UnrealEditor\Development\SwagRacer2\UnrealEditor-SwagRacer2.lib"

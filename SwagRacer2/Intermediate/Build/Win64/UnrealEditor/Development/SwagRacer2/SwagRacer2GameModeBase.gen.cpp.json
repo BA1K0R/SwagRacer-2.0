@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\swagracer2.0\\swagracer-2.0\\swagracer2\\intermediate\\build\\win64\\unrealeditor\\inc\\swagracer2\\swagracer2gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\swagracer2.0\\swagracer-2.0\\swagracer2\\intermediate\\build\\win64\\swagracer2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\swagracer2.0\\swagracer-2.0\\swagracer2\\intermediate\\build\\win64\\unrealeditor\\development\\swagracer2\\definitions.swagracer2.h",
+            "e:\\swagracer2.0\\swagracer-2.0\\swagracer2\\source\\swagracer2\\swagracer2gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\swagracer2.0\\swagracer-2.0\\swagracer2\\intermediate\\build\\win64\\unrealeditor\\inc\\swagracer2\\swagracer2gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
