@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SwagRacer2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>906AD3A4F96F9A477FFEB7A3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>712C72DD2EA71097654CBDC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D8B05B03A0C556821155D34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
